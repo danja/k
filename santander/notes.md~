@@ -1,0 +1,31 @@
+https://www.kaggle.com/c/santander-customer-satisfaction
+
+ area under the ROC curve
+
+https://en.wikipedia.org/wiki/Binary_classification
+
+Some of the methods commonly used for binary classification are:
+
+* Decision trees
+* Random forests
+* Bayesian networks
+* Support vector machines
+* Neural networks
+* Logistic regression
+
+-------------
+
+http://blog.kaggle.com/2016/02/22/profiling-top-kagglers-leustagos-current-7-highest-1/
+
+What are your favorite machine learning algorithms?
+Gradient boosted trees by far! I like GBT because it gives pretty good results right off the bat. Look at how many competitions are won using them!
+https://en.wikipedia.org/wiki/Gradient_boosting
+
+What are your favorite machine learning libraries?
+xgboost, scikit-learn and pandas
+
+-----------------
+
+https://github.com/dnouri/nolearn
+
+
